@@ -1,2 +1,0 @@
-# kangjiaRep
-git test
